@@ -1,2 +1,1 @@
-loops_condtions_andparsing > README.md
-echo loops_condtions_andparsing
+loops_conditions_and_parsing
