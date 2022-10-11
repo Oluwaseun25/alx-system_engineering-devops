@@ -1,4 +1,3 @@
-
 -- Creates the primary database with a populated table
 CREATE DATABASE IF NOT EXISTS tyrell_corp;
 USE tyrell_corp;
